@@ -1,0 +1,38 @@
+{
+  "name": "image-processing-api",
+  "version": "1.0.0",
+  "description": "Returns the resized version of an image",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josewebdev2000/image-processing-api.git"
+  },
+  "keywords": [
+    "Back-End",
+    "Development",
+    "Node",
+    "JS",
+    "Express",
+    "JS",
+    "TypeScript",
+    "Jasmine",
+    "ES",
+    "Lint",
+    "Prettier"
+  ],
+  "author": "Jose Brache Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josewebdev2000/image-processing-api/issues"
+  },
+  "homepage": "https://github.com/josewebdev2000/image-processing-api#readme",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
